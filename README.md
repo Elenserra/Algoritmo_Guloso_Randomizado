@@ -1,3 +1,3 @@
-# Iterated_Local_Search
-Iterated Local Search (ILS) aplicado no problema de otimização de rotas de ônibus.
-O objetivo do problema é encontrar uma solução que minimize o número de veículos necessários para transportar todos os passageiros de forma eficiente, respeitando um certo número de restrições.
+# Algoritmo_Guloso_Randomizado
+Desenvolvimento de um Algoritmo Guloso Randomizado aplicado no problema de otimização de rotas de ônibus.
+O objetivo do problema é desenvolver, implementar e avaliar o desempenho de um Algoritmo Guloso Randomizado adaptado para a otimização de rotas de ônibus, visando distribuir de forma eficiente os veículos de diferentes tipos para atender às rotas, reduzindo o impacto social resultante desse planejamento.
